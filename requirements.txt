@@ -1,0 +1,22 @@
+# 爬虫与数据解析 (Crawler_Part.ipynb)
+requests
+beautifulsoup4
+
+# 深度学习与大模型基础 (Pipeline & Ablation Notebooks)
+torch
+transformers
+sentence-transformers
+
+# 向量数据库与检索
+faiss-cpu
+numpy
+
+# RAG 评估框架 (Evaluation.ipynb)
+ragas
+langchain-openai
+datasets
+
+# 数据处理与通用工具
+pandas
+tqdm
+nest-asyncio

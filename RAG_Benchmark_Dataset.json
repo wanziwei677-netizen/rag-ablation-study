@@ -1,0 +1,49 @@
+{
+    "sources": [
+        {
+            "source": "Around the world in 80 cuisines",
+            "questions": [
+                {
+                    "question": "What is the name of the French seafood stew that the author first heard of in a Harry Potter book?",
+                    "answer": "Bouillabaisse"
+                },
+                {
+                    "question": "Which Roman goddess fed a soup resembling bouillabaisse to Vulcan to make him sleep?",
+                    "answer": "Venus (goddess of love)"
+                },
+                {
+                    "question": "From which southern coastal city does the specific recipe of bouillabaisse originate?",
+                    "answer": "Marseille"
+                },
+                {
+                    "question": "What is the secret ingredient the author used in their bouillabaisse that tastes strongly of aniseed?",
+                    "answer": "Pernod"
+                },
+                {
+                    "question": "What is the meaning of the past participle French word \"souffler\"?",
+                    "answer": "To inflate"
+                },
+                {
+                    "question": "What southerly French city does the name of Niçoise salad refer to?",
+                    "answer": "Nice"
+                },
+                {
+                    "question": "What type of dressing did the author use to finish off their Niçoise salad?",
+                    "answer": "A red wine vinegar and dijon mustard dressing"
+                },
+                {
+                    "question": "What is the name of the earthenware bowl that Cassoulet is served in and named after?",
+                    "answer": "A \"cassole\""
+                },
+                {
+                    "question": "What type of bread did the author use to make bread crumbs from scratch for the Cassoulet?",
+                    "answer": "A stale loaf of brioche"
+                },
+                {
+                    "question": "What does \"confit de canard\" essentially mean?",
+                    "answer": "Duck slow-cooked in fat"
+                }
+            ]
+        }
+    ]
+}
